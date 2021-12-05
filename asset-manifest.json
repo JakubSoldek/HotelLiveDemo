@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/HotelLiveDemo/static/js/main.9be8acb2.chunk.js",
-    "main.js.map": "/HotelLiveDemo/static/js/main.9be8acb2.chunk.js.map",
-    "runtime-main.js": "/HotelLiveDemo/static/js/runtime-main.68b8a3f1.js",
-    "runtime-main.js.map": "/HotelLiveDemo/static/js/runtime-main.68b8a3f1.js.map",
-    "static/js/2.ab7dcc67.chunk.js": "/HotelLiveDemo/static/js/2.ab7dcc67.chunk.js",
-    "static/js/2.ab7dcc67.chunk.js.map": "/HotelLiveDemo/static/js/2.ab7dcc67.chunk.js.map",
-    "index.html": "/HotelLiveDemo/index.html",
-    "static/js/2.ab7dcc67.chunk.js.LICENSE.txt": "/HotelLiveDemo/static/js/2.ab7dcc67.chunk.js.LICENSE.txt",
-    "static/media/bg-pattern-quotation.f3b8bf7a.svg": "/HotelLiveDemo/static/media/bg-pattern-quotation.f3b8bf7a.svg",
-    "static/media/hotel-1.b766cfcb.jpg": "/HotelLiveDemo/static/media/hotel-1.b766cfcb.jpg",
-    "static/media/hotel-2.174fcb5d.jpg": "/HotelLiveDemo/static/media/hotel-2.174fcb5d.jpg",
-    "static/media/hotel-3.710a5ec7.jpg": "/HotelLiveDemo/static/media/hotel-3.710a5ec7.jpg",
-    "static/media/user.911d809e.jpg": "/HotelLiveDemo/static/media/user.911d809e.jpg"
+    "main.js": "/HotelLiveDemo/hotel/static/js/main.9be8acb2.chunk.js",
+    "main.js.map": "/HotelLiveDemo/hotel/static/js/main.9be8acb2.chunk.js.map",
+    "runtime-main.js": "/HotelLiveDemo/hotel/static/js/runtime-main.c46ee00c.js",
+    "runtime-main.js.map": "/HotelLiveDemo/hotel/static/js/runtime-main.c46ee00c.js.map",
+    "static/js/2.45c0bf2e.chunk.js": "/HotelLiveDemo/hotel/static/js/2.45c0bf2e.chunk.js",
+    "static/js/2.45c0bf2e.chunk.js.map": "/HotelLiveDemo/hotel/static/js/2.45c0bf2e.chunk.js.map",
+    "index.html": "/HotelLiveDemo/hotel/index.html",
+    "static/js/2.45c0bf2e.chunk.js.LICENSE.txt": "/HotelLiveDemo/hotel/static/js/2.45c0bf2e.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-quotation.f3b8bf7a.svg": "/HotelLiveDemo/hotel/static/media/bg-pattern-quotation.f3b8bf7a.svg",
+    "static/media/hotel-1.b766cfcb.jpg": "/HotelLiveDemo/hotel/static/media/hotel-1.b766cfcb.jpg",
+    "static/media/hotel-2.174fcb5d.jpg": "/HotelLiveDemo/hotel/static/media/hotel-2.174fcb5d.jpg",
+    "static/media/hotel-3.710a5ec7.jpg": "/HotelLiveDemo/hotel/static/media/hotel-3.710a5ec7.jpg",
+    "static/media/user.911d809e.jpg": "/HotelLiveDemo/hotel/static/media/user.911d809e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.68b8a3f1.js",
-    "static/js/2.ab7dcc67.chunk.js",
+    "static/js/runtime-main.c46ee00c.js",
+    "static/js/2.45c0bf2e.chunk.js",
     "static/js/main.9be8acb2.chunk.js"
   ]
 }
