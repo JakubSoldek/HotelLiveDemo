@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/HotelLiveDemo/static/js/main.5d04eccc.chunk.js",
-    "main.js.map": "/HotelLiveDemo/static/js/main.5d04eccc.chunk.js.map",
+    "main.js": "/HotelLiveDemo/static/js/main.ab04b4fc.chunk.js",
+    "main.js.map": "/HotelLiveDemo/static/js/main.ab04b4fc.chunk.js.map",
     "runtime-main.js": "/HotelLiveDemo/static/js/runtime-main.68b8a3f1.js",
     "runtime-main.js.map": "/HotelLiveDemo/static/js/runtime-main.68b8a3f1.js.map",
-    "static/js/2.766d5fd9.chunk.js": "/HotelLiveDemo/static/js/2.766d5fd9.chunk.js",
-    "static/js/2.766d5fd9.chunk.js.map": "/HotelLiveDemo/static/js/2.766d5fd9.chunk.js.map",
+    "static/js/2.ab7dcc67.chunk.js": "/HotelLiveDemo/static/js/2.ab7dcc67.chunk.js",
+    "static/js/2.ab7dcc67.chunk.js.map": "/HotelLiveDemo/static/js/2.ab7dcc67.chunk.js.map",
     "index.html": "/HotelLiveDemo/index.html",
-    "static/js/2.766d5fd9.chunk.js.LICENSE.txt": "/HotelLiveDemo/static/js/2.766d5fd9.chunk.js.LICENSE.txt",
+    "static/js/2.ab7dcc67.chunk.js.LICENSE.txt": "/HotelLiveDemo/static/js/2.ab7dcc67.chunk.js.LICENSE.txt",
     "static/media/bg-pattern-quotation.f3b8bf7a.svg": "/HotelLiveDemo/static/media/bg-pattern-quotation.f3b8bf7a.svg",
     "static/media/hotel-1.b766cfcb.jpg": "/HotelLiveDemo/static/media/hotel-1.b766cfcb.jpg",
     "static/media/hotel-2.174fcb5d.jpg": "/HotelLiveDemo/static/media/hotel-2.174fcb5d.jpg",
@@ -16,7 +16,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.68b8a3f1.js",
-    "static/js/2.766d5fd9.chunk.js",
-    "static/js/main.5d04eccc.chunk.js"
+    "static/js/2.ab7dcc67.chunk.js",
+    "static/js/main.ab04b4fc.chunk.js"
   ]
 }
